@@ -1,0 +1,10 @@
+| Nokia 5110 | ESP32-S3 Pico | Note                |
+| ---------- | ------------- | ------------------- |
+| RST        | GPIO 15       | Reset               |
+| CE (CS)    | GPIO 5        | Chip Select         |
+| DC         | GPIO 2        | Data/Command        |
+| DIN        | GPIO 17       | MOSI                |
+| CLK        | GPIO 18       | SCK                 |
+| VCC        | 3.3V          | Power               |
+| BLK        | 3.3V          | Backlight always on |
+| GND        | GND           | Ground              |
